@@ -1,0 +1,7 @@
+{
+  "name": "AI Lead Analyzer – AI Workflow Automation SaaS",
+  "description": "Automate lead processing, Google Sheets workflows, and CRM synchronization with AI Lead Analyzer. Capture, score, and convert leads in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
